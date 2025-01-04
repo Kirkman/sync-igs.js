@@ -4,7 +4,7 @@ igs.js for Synchronet
 What is this?
 -------------
 
-This is a quick-and-dirty upload of my library for working with the [IGS](), or "Instant Graphics and Sound," protocol on my Synchronet BBS.
+This is a quick-and-dirty upload of my library for working with the IGS, or "[Instant Graphics and Sound](https://breakintochat.com/wiki/Instant_Graphics_and_Sound_(IGS))," protocol on my Synchronet BBS.
 
 This library provides methods for to do a bunch of things with IGS. 
 
